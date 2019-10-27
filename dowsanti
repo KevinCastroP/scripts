@@ -1,0 +1,6 @@
+#!/bin/bash
+#to install execute santi script
+
+sudo cp santi /usr/local/bin
+echo alias san='sudo santi' >> ~/.bashrc
+source ~/.bashrc
