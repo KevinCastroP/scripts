@@ -1,0 +1,5 @@
+#!/bin/bash
+#to add (script_name + file)
+git add $1
+git commit -m "last upload"
+git push origin master
