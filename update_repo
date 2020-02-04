@@ -1,0 +1,65 @@
+#!/bin/bash
+
+echo "**********************************"
+echo "# update: `date`"
+
+echo "---------------------------------"
+echo " ./holbertonschool-zero_day"
+cd /home/vagrant/holbertonschool-zero_day/
+sudo git pull
+
+echo "---------------------------------"
+echo " ./holberton-system_engineering-devops"
+cd /home/vagrant/holberton-system_engineering-devops/
+sudo git pull
+
+echo "---------------------------------"
+echo " ./holbertonschool-low_level_programming"
+cd /home/vagrant/holbertonschool-low_level_programming/
+sudo git pull
+
+echo "---------------------------------"
+echo " ./holbertonschool-higher_level_programming"
+cd /home/vagrant/holbertonschool-higher_level_programming/
+sudo git pull
+
+echo "---------------------------------"
+echo " ./monty"
+cd /home/vagrant/monty/
+sudo git pull
+
+echo "---------------------------------"
+echo " ./printf"
+cd /home/vagrant/printf/
+sudo git pull
+
+echo "---------------------------------"
+echo " ./simple_shell"
+cd /home/vagrant/simple_shell/
+sudo git pull
+
+echo "---------------------------------"
+echo " ./scripts"
+cd /home/vagrant/scripts/
+sudo git pull
+
+
+echo "---------------------------------"
+echo " ./hodor"
+cd /home/vagrant/hodor/
+sudo git pull
+
+echo "---------------------------------"
+echo " ./sorting_algorithms"
+cd /home/vagrant/sorting_algorithms/
+sudo git pull
+
+echo "---------------------------------"
+echo " ./San_cryp"
+cd /home/vagrant/San_cryp/
+sudo git pull
+
+echo "**********************************"
+echo ""
+echo ""
+echo ""
