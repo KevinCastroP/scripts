@@ -4,6 +4,11 @@ echo "**********************************"
 echo "# update: `date`"
 
 echo "---------------------------------"
+echo " ./AirBnB_clone"
+cd /home/vagrant/AirBnB_clone/
+sudo git pull
+
+echo "---------------------------------"
 echo " ./holbertonschool-zero_day"
 cd /home/vagrant/holbertonschool-zero_day/
 sudo git pull
