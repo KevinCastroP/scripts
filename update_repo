@@ -4,8 +4,8 @@ echo "**********************************"
 echo "# update: `date`"
 
 echo "---------------------------------"
-echo " ./AirBnB_clone"
-cd /home/vagrant/AirBnB_clone/
+echo " ./AirBnB_clone-1"
+cd /home/vagrant/AirBnB_clone-1/
 sudo git pull
 
 echo "---------------------------------"
