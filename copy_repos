@@ -1,0 +1,61 @@
+#!/bin/bash
+
+echo "**********************************"
+echo "# update: `date`"
+
+echo "---------------------------------"
+echo " ./pos"
+sudo git clone https://github.com/KevinCastroP/POS_system.git /var/www/html/pos
+
+echo "---------------------------------"
+echo " ./AirBnB_clone_v2"
+sudo git clone https://github.com/KevinCastroP/AirBnB_clone_v2.git ~/Documents/Repos_git/AirBnB_clone_v2/
+
+echo "---------------------------------"
+echo " ./holbertonschool-zero_day"
+sudo git clone https://github.com/KevinCastroP/holbertonschool-zero_day.git ~/Documents/Repos_git/holbertonschool-zero_day/
+
+echo "---------------------------------"
+echo " ./holberton-system_engineering-devops"
+sudo git clone https://github.com/KevinCastroP/holberton-system_engineering-devops.git ~/Documents/Repos_git/holberton-system_engineering-devops/
+
+echo "---------------------------------"
+echo " ./holbertonschool-low_level_programming"
+sudo git clone https://github.com/KevinCastroP/holbertonschool-low_level_programming.git ~/Documents/Repos_git/holbertonschool-low_level_programming/
+
+echo "---------------------------------"
+echo " ./holbertonschool-higher_level_programming"
+sudo git clone https://github.com/KevinCastroP/holbertonschool-higher_level_programming.git ~/Documents/Repos_git/holbertonschool-higher_level_programming/
+
+echo "---------------------------------"
+echo " ./monty"
+sudo git clone https://github.com/KevinCastroP/monty.git ~/Documents/Repos_git/monty/
+
+echo "---------------------------------"
+echo " ./printf"
+sudo git clone https://github.com/KevinCastroP/printf.git ~/Documents/Repos_git/printf/
+
+echo "---------------------------------"
+echo " ./simple_shell"
+sudo git clone https://github.com/KevinCastroP/simple_shell.git ~/Documents/Repos_git/simple_shell/
+
+echo "---------------------------------"
+echo " ./scripts"
+sudo git clone https://github.com/KevinCastroP/scripts.git ~/Documents/Repos_git/scripts/
+
+echo "---------------------------------"
+echo " ./hodor"
+sudo git clone https://github.com/KevinCastroP/hodor.git ~/Documents/Repos_git/hodor/
+
+echo "---------------------------------"
+echo " ./sorting_algorithms"
+sudo git clone https://github.com/KevinCastroP/sorting_algorithms.git ~/Documents/Repos_git/sorting_algorithms/
+
+echo "---------------------------------"
+echo " ./San_cryp"
+sudo git clone https://github.com/KevinCastroP/San_cryp.git ~/Documents/Repos_git/San_cryp/
+
+echo "**********************************"
+echo ""
+echo ""
+echo ""
